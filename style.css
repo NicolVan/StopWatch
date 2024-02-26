@@ -1,0 +1,33 @@
+div{
+    margin: auto;
+    width: 20cm;
+    height: 5cm;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    font-size: 95px;
+    text-align: center;
+    font-family: 'Digital-7' ;
+}
+button{
+    margin: auto;
+    width: 50px;
+    height: 40px;
+}
+
+@font-face {
+    font-family: 'Digital-7';
+    src: url('Digital-7.eot');
+    src: url('Digital-7.eot?#iefix') format('embedded-opentype'),
+        url('Digital-7.woff2') format('woff2'),
+        url('Digital-7.woff') format('woff'),
+        url('Digital-7.svg#Digital-7') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+body{
+    background-color: black;
+    color: white;
+}
+    
+
